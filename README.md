@@ -1,2 +1,2 @@
 # Panda Commerece Bootstrap
-Live site: 
+Live site: https://devmahfuzzayn.github.io/panda-commerce-bootstrap/
